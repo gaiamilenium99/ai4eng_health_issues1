@@ -15,3 +15,6 @@ Raul Ramos Pollan			raul.ramos@udea.edu.co
 Dataset empleado:
 Vamos a usar el dataset de kaggle “Patient Survival Prediction” (https://www.kaggle.com/datasets/mitishaagarwal/patient)
 
+Video Entrega 2: https://www.youtube.com/watch?v=Oig9G_DBD1s
+
+
